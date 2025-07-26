@@ -80,7 +80,7 @@ This project improved my skills in API integration, JSON handling, DAX, and dash
 
 **Main Page**  
 Shows all KPIs, current weather, and AQI for selected city with dynamic visual updates.  
-![Dashboard Main Page](https://your-image-link.com/dashboard-main.png)
+![Dashboard Main Page](https://github.com/Shaikh-Sahim/Live-Weather-Dashboard/blob/main/Screenshot%20(221).png)
 
 **Modeling View**  
 Displays the structured data model built from parsed JSON for robust filtering and relationships.  
