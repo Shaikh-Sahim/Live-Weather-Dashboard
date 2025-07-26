@@ -84,9 +84,8 @@ Shows all KPIs, current weather, and AQI for selected city with dynamic visual u
 
 **Modeling View**  
 Displays the structured data model built from parsed JSON for robust filtering and relationships.  
-![Modeling View](https://your-image-link.com/model-view.png)
+![Modeling View](https://github.com/Shaikh-Sahim/Live-Weather-Dashboard/blob/main/Screenshot%20(223).png)
 
-> 📌 *Replace the above image links with actual hosted image URLs (e.g., Imgur, Codebasics CDN, or GitHub assets)*
 
 ---
 
@@ -95,5 +94,5 @@ Displays the structured data model built from parsed JSON for robust filtering a
 If you're interested in data-driven development, live dashboards, or have feedback on this project — feel free to connect!  
 I’m open to collaboration, mentorship, or new opportunities in the data analytics space.
 
-📍 LinkedIn: [Your LinkedIn Profile Link]  
-📧 Email: [Your Email Address]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sk-sahim-iqbal-086561202/)
+📧 Email: [sahimshaikh391@gmail.com]
